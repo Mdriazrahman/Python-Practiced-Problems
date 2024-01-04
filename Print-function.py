@@ -6,3 +6,7 @@ print(5)
 print(num)
 x=100
 print(x) 
+
+first= 10
+second=20
+print(f"{first} {second}")
